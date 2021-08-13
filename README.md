@@ -5,3 +5,5 @@ The dataset used here was collected at a University Hospital in Portugal. It con
 Predicting cancer survival with Logistic Regression.
 
 [HCCSurvivalPrediction.R](https://github.com/natmurad/cancersurvivalprediction/blob/main/HCCSurvivalPrediction.R) - code with data pre-processing, feature engineering, feature selection, training of the model, model evaluation.
+
+[HCCSurvivalPrediction.html](https://rpubs.com/natmurad/hccdata) - html report with comments, graphic exploration, feature selection, treatment of missing values and training of the Logistic Regression Model.
